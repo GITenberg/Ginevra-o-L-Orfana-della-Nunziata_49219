@@ -1,10 +1,16 @@
 _repo: Ginevra-o-L-Orfana-della-Nunziata_49219
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49219-h/images/cover.jpg
 creator:
   author:
     agent_name: Ranieri, Antonio
     gutenberg_agent_id: '45202'
     url: http://www.gutenberg.org/2009/agents/45202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49219#Ginevra-o-L-Orfana-della-Nunziata
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2015-06-15'
 gutenberg_type: Text
